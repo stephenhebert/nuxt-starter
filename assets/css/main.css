@@ -1,0 +1,12 @@
+:root {}
+
+@media (prefers-color-scheme: dark) {
+  :root {}
+}
+
+body {
+
+  min-height: 100vh;
+  @apply font-sans;
+
+}
